@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>for japar</title>
+
+<style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: radial-gradient(circle at top, #1a1a1a, #0d0d0d 70%);
+    font-family: 'Georgia', serif;
+    color: #e6e6e6;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(3px);
+}
+
+.start-screen {
+    text-align: center;
+    animation: fadeIn 2s ease;
+}
+
+.start-screen button {
+    margin-top: 20px;
+    padding: 12px 28px;
+    background: transparent;
+    border: 1px solid #888;
+    color: #ccc;
+    font-size: 14px;
+    letter-spacing: 2px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.start-screen button:hover {
+    background: #222;
+    border-color: #aaa;
+}
+
+.container {
+    display: none;
+    max-width: 750px;
+    padding: 40px;
+    line-height: 1.9;
+    overflow-y: auto;
+    height: 90vh;
+    animation: fadeIn 2s ease;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 22px;
+    letter-spacing: 3px;
+    color: #aaa;
+}
+
+.footer {
+    margin-top: 40px;
+    font-size: 13px;
+    opacity: 0.5;
+    text-align: center;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+</style>
+</head>
+
+<body>
+
+<div class="overlay"></div>
+
+<div class="start-screen" id="start">
+    <h1>for muhammad dwi japar</h1>
+    <button onclick="openLetter()">buka pesan</button>
+</div>
+
+<div class="container" id="letter">
+<h1>tulip-biru 💙🌷</h1
+
+sebelumnya gue mau ngasi tau kalo ini unek' selama kenal lu ya,jadi kalo ada kata yang ga enakin di hati lu maafkeunn yaa?.maaf juga kalo kedengeran nya kepedean
+
+ dulu kan lu sempet demen gue kann, nahh posisi nya gue ga ada rasa sama lu,tpi semenjak kita nyatain perasaan di malam itu jaman jaman mpls smk lu,gue kan bilang "gue juga gatau kenapa bisa suka sama lu gitu" dari situ gue pikir mau feedback lu dah yang tadinya sama sekali gada rasa, gue coba dah tuh naro rasa sama lu.
+
+ lu tau?gue bikin polaroid room chtt kita,foto elu,abis itu gue tempel di lemari buat jadi semangat mondok gue,terus gue bikin satu buku isinya about you {Muhammad Dwi japar},semua belakang kitab gue isinya nama lu semua,gue juga tulis nama lengkap lu di lemari gue sampe penuh, terus semua tentang lu gue susun rapii di galeri gue.pokonya anything about you par,bahkan sampe ke gayung ember gue nama lengkap lu, sebenarnya yang mondok siapa sii wkkwk.
+
+ gila ya?iya kata temen gue juga gitu kok,kalo lu mau bilang gue oon nya ngoon banget kalo dh kecintaan.emg iya, mangkanya sampe sekarang gue ga berani buka hati buat siapa pun sampe sekarang masii ngestak di elu.
+ 
+ sampe' tgl 8 Desember 2024 gue perpul,gue ga langsung ngabarin lu kalo gue lagi perpul,malam nya baru gue ngabarin lu kalo gue dah perpul,dan lu nyuruh gue buat chttan di wa satu lagi kan? knpa?takut ketauan pacar lu ya?.
+
+ kayanya gue terlambat bangett ya?nyatain perasaan gue yang bener' suka sama lu.
+
+ 27 Maret 2025,lu balik DM gue nanyain kabar gue.asal lu tau yaa tadi nya tuu gue uda bener' move on dari lu, gue blokir kontak lu terus gue hapus kontak lu,gue hapus ss room chtt kita, gue hapus foto lu, unfoll ig lu, bakar buku about you, hapus nama lu di lemari, gayung, ember gue.pokonya anything about you deh udaa gue ilangin dari hidup gue.oh iya,itu tu di bantu temen gue yang tau lu.
+
+ tpi nyata nya gue ga bisa diemin org yang harus gue abaikan.
+  
+ gue sendiri benci bangett par sama diri gue ngapa bloon bangett ya kalo soal percintaan? ga lagi deh cinta'an gue kapok, mungkin dari gue yang baperan orgnya udaa gitu terlalu excited banget kan kalo uda chttan ama lu.
+ 
+ oh iya satu lagi, gue kira pas hari itu lu ga akan mau pacaran lagi soalnya gue pernah bilang gini "lain kali kalo ada masalah cerita sama gue,mau nanti nya lu punya pacar kek" terus lu jawab gini nih "kayaknya gbkl mao pcran lgii sii" ini gue salin dari no lu yang dulu ya,masii gue simpen kok no nya.
+  lu inget ga sii yang gue wa lu pake no pondok?kalo bole jujur gue ketahuan naro no telpon selain ortu di wartel,alhasil gue dapet hukuman di jemur depan banyak org selama seminggu pakai papan tulis besar yang tulisannya gini 'ضع رقم شخص آخر غير والدي' artinya (menaruh nomor seseorang selain orang tua),buat ngucapin sweet seventeen lu par, walaupun telat sehari wkwk.lagi hari itu lu bilang kan kalo lu punya pacar?maafkeunn kalo alay nii ya 🙏🏻gue ga nangis cuma kecewa dikitttt gitu ga banyak, tapi sebenarnya gue bahagia karna lu bahagia, gue juga ga ada hak buat larang lu karna gue bukan siapa' lu,kita kan just a friend of a friend, ya ga? 
+  
+  gue aja kenal lu dari kobing thn 2022. sumpilll parr gue kenal lu dari 2022 artinya udaa 4 thn lah ya gue kenal lu. selama ini kita belum pernah sekalipun main ya? sebenarnya lu anggap gue apa sii?teman kan?teman tpi kita sekalipun ga pernah main,ga pernah ketemuan,sekali nya ketemu paling dulu sering pas'an di jalan,ya ga?vc atau telponan sekalipun ga pernah kan?.
+  
+  lu pemenang nya par,bukan keluarga gue doang yang tau lu, tapi keluarga besar gue pada tau lu,kakek dari ayah,umu dari bunda,tante,om,uwa, sepupu,mereka tau nya lu baik bangett, laki' green forest.gaa cuma keluarga gue,kakak dan ade kelas kelas gue excited bangett dengerin gue nyeritain lu.
+ 
+ cuma sama lu gue nurunin gengsi,cuma sama lu gue se excited ini.
+  
+  lu ganteng kok par,banyak perempuan yang bener' serius mau sama lu nnti nya, jangan pernah mikir ga ada yang suka lu.ada,cuma belum saatnya. gue juga slalu percaya sejauh apapun lu pasti bisa berubah dengan cara lu sendiri.
+
+ jadiii tujuan gue ngetik panjang lebar giniii, gue harap lu bales nya ga singkat ya, karna gue ngetik beginian dari jam 00.41 malam sampe sekarang aja jam 1.53, jari gue dah pegel mata gue dah ngantuk pala gue dah pusing mau bocan (bobo cantik).
+  
+  gue mutusin buat ngejauh mau hilangin rasa dari lu sebentar,gue juga yakin lu juga pasti udaa ga ada rasa sama gue.*hilang rasa bukan berarti hilang komunikasi*,gue ga mau putus komunikasi sama lu, maaf nii ya alay lagi 🙏🏻 karna lu dateng ke hidup gue di saat gue di jauhin teman sekelas teman di rumah, mungkin kata Allah hidup gue terlalu sepi jadi Allah ngirimin elu ke kehidupan gue. dan gue ga pernah nyesel ketemu lu.
+ 
+  kalo bolee jujur nii ya, gue kangen lu yang dulu par, yang slalu lewat depan rumah gue, nyamperin gue ke mi, bujuk gue pas marah,i'm all about missing the old you. jujur par,gue cape naro harapan banyak ke elu. kaya nya selama kita kenal yang inget awal ketemu gue doang ya?.
+  
+  setelah ini gue ga blokir kontak atau ig lu kok, mungkin dengan cara gue ngeluarin unek' gue gampang hilangin rasa, kalo lu mau ngeluarin unek' tentang gue juga gapapaa, gue ga bakal baper kaya dulu lagi kok,gue ga bakal se excited dulu lagi kok.
+ 
+  buat penutup gue mau bilang maaf nii ya selama kenal gue hidup lu jadi risih atau brisik karna yapping gue, ada kata' yang ga enakeunnn di hati maneh,sengaja atau engga yaa, maaf apa lagi yaa?, pokonya mah maaf... maaf ... maaf,di maafin ga kira'?, and the last thank you for coming into my life, makasiii uda mau jadi temen gue,te amo jaoooo...
+
+to: jaoooooooooooooooo🐄🐄🐄🐄🐄
+from: tulip-biru lalaaapoooo 💙🌷
+
+<div class="footer">
+ditulis tengah malam,  
+mata ngantuk, hati jujur.
+</div>
+
+</div>
+
+<script>
+function openLetter() {
+    document.getElementById("start").style.display = "none";
+    document.getElementById("letter").style.display = "block";
+}
+</script>
+
+</body>
+</html>
